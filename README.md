@@ -1,6 +1,10 @@
 # Repositório de Pesquisas em Segurança Pública
 
-Repositório organizado para análise de dados de vitimização, seguindo boas práticas de gestão da informação científica e reprodutibilidade. Contém dados da PNAD e análises relacionadas a segurança pública.
+Repositório organizado para análise de dados de vitimização, seguindo boas práticas de gestão da informação científica e reprodutibilidade.
+
+## 📂 Arquivos para Uso
+
+
 
 ## 📂 Estrutura do Repositório
 
